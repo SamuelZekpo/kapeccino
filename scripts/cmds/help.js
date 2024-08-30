@@ -92,22 +92,40 @@ module.exports = {
       }
     } else {
       const commandsList = `━━━━━━━━━━━━━━━━
-𝙰𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜:
-╭─╼━━━━━━━━╾─╮
-│ - AI
-│ - Alldl
-│ - Dalle
-│ - Help
-│ - Lyrics
-│ - Pinterest
-│ - Prefix
-│ - Remini
-│ - Removebg
-│ - Tempmail
-│ - Translate
-│ - Unsend
-│ - Uptime
+𝙰𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 🐥 :
+─╼━━━━━━━━╾─╮
+│ - `adduser`
+│ - `adminonly`
+│ - `ai`
+│ - `alldl`
+│ - `all`
+│ - `ban`
+│ - `callad`
+│ - `cmd`
+│ - `count`
+│ - `dalle`
+│ - `filteruser`
+│ - `guessnumber`
+│ - `help`
+│ - `kick`
+│ - `lyrics`
+│ - `notification`
+│ - `onlyadminbox`
+│ - `pinterest`
+│ - `prefix`
+│ - `remini`
+│ - `removebg`
+│ - `restart`
+│ - `spotify`
+│ - `tempmail`
+│ - `tid`
+│ - `translate`
+│ - `uid`
+│ - `unsend`
+│ - `uptime`
 ╰─━━━━━━━━━╾─╯
+	      
+
 -𝚑𝚎𝚕𝚙 <𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚗𝚊𝚖𝚎>
 𝚃𝚘 𝚜𝚎𝚎 𝚑𝚘𝚠 𝚝𝚘 𝚞𝚜𝚎
 available 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜.
